@@ -1,0 +1,5 @@
+﻿  Gallows.cpp
+C:\Users\Asus\source\repos\Виселица\Gallows.cpp(77,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Виселица.cpp
+  Создание кода...
+  Виселица.vcxproj -> C:\Users\Asus\source\repos\Виселица\x64\Debug\Виселица.exe
